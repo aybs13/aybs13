@@ -30,7 +30,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" alt="Solidity logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
   <img width="12" />
-  <img src="https://www.offsec.com/logo/kalilinux-logo.svg" height="30" alt="Kali Linux logo" />
 </div>
 
 ###

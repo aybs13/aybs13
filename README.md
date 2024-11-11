@@ -28,9 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/627794/224462000-76414e8b-62b9-4b17-8e1d-380fe7148c40.png" height="30" alt="Solidity logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" alt="Solidity logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
   <img width="12" />
-  <img src="https://www.kali.org/images/logo.svg" height="30" alt="Kali Linux logo" />
+  <img src="https://www.offsec.com/logo/kalilinux-logo.svg" height="30" alt="Kali Linux logo" />
 </div>
 
 ###

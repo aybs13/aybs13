@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ayub Rantesalu and I'm a full-stack JavaScript developer, cybersecurity enthusiast, and currently delving into blockchain development.</h2>
+<h2 align="left">Hi 👋! My name is Ayub Rantesalu</h2>
+<h3 align="left">I'm a full-stack JavaScript developer, cybersecurity enthusiast, and currently delving into blockchain development.</h3>
 
 ###
 

@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=790b7611ikdn796uo6a6b965gcuxxeb70a67j4t8z41y2wdk&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
+<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=790b7611ikdn796uo6a6b965gcuxxeb70a67j4t8z41y2wdk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool animation" />
+
 
 ###
 
@@ -28,9 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/627794/224462000-76414e8b-62b9-4b17-8e1d-380fe7148c40.png" height="30" alt="Solidity logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
-  <img width="12" />
-  <img src="https://www.kali.org/images/logo.svg" height="30" alt="Kali Linux logo" />
 </div>
 
 ###

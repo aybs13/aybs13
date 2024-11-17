@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=790b7611ikdn796uo6a6b965gcuxxeb70a67j4t8z41y2wdk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool animation" />
-
 ###
 
 <div align="left">
